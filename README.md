@@ -1,6 +1,9 @@
 # LowCode
 本项目是一个拖拽式可视化搭建前端页面的低代码平台，运行于 Vite + Vue3 框架，为2022年暑假字节跳动青训营结营组队项目。
+
 在线体验: [Lowcode](https://lowcode-rqd-china.vercel.app/)
+
+部署于 Vercel，免运维，热更新部署，不过最近访问受限，需科学上网。
 
 ## 技术选型
 本项目的技术栈包括：Vite、Vue3、Pinia、TypeScript、JSX、json-server、Element Plus。
